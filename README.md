@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=2F81F7&center=true&vCenter=true&width=500&lines=Hey+there!+👋+I'm+Muhammad+Ibrahim;Full-Stack+%7C+Mobile+Developer;Instructor+%7C+Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=2F81F7&center=true&vCenter=true&width=500&lines= Hey+there!+👋+I'm+Muhammad+Ibrahim;Full-Stack+%7C+Mobile+Developer;Instructor+%7C+Tech+Explorer" />
 </h1>
 
 <p align="center">
