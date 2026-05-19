@@ -1,82 +1,114 @@
-<!-- Profile Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=2F81F7&center=true&vCenter=true&width=500&lines=👋+I'm+Muhammad+Ibrahim;Full-Stack+%7C+Mobile+Developer;Instructor+%7C+Tech+Explorer" />
-</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ibrahim</h1>
+
+<h3 align="center">
+💻 Full Stack Developer | Flutter Developer | .NET Developer | AI Enthusiast
+</h3>
 
 <p align="center">
-  <b>💻 Transforming ideas into code • 🚀 Building apps that make an impact • 🧠 Teaching the next generation of developers</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Flutter+App+Developer;Laravel+%7C+.NET+%7C+React+Developer;Teaching+Programming+%26+AI;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🧭 About Me
+## 🚀 About Me
 
-🌍 From Pakistan, I’m a **Full-Stack Developer** & **Mobile App Creator** who thrives on learning, building, and sharing.  
-I enjoy designing robust solutions, teaching AI concepts, and developing applications using a wide range of technologies.
-
-🧩 I’m passionate about:
-- Building powerful apps with **.NET**, **Laravel**, **MERN**, and **Flutter**
-- Creating **clean, scalable** backend systems  
-- Enhancing performance with **SEO** & responsive UI  
-- Mentoring students at **Aptech** and through **YouTube tutorials**
+- 🔭 Currently Working On **Laravel & Flutter Projects**
+- 🌱 Learning **AI, MERN Stack & Advanced Backend**
+- 👨‍🏫 Teaching **Programming & AI**
+- 💬 Ask me about **PHP, Laravel, Flutter, C#, .NET, JavaScript**
+- ⚡ Fun Fact: I love building real-world projects
 
 ---
 
-## ⚙️ My Tech Arsenal
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,php,laravel,dotnet,flutter,dart,mongodb,mysql,git,github,figma,postman" />
+<p align="left">
+<a href="https://github.com/imhibrahim" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://linkedin.com/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://instagram.com/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
 </p>
 
 ---
 
-## 🚀 Featured Skills
-
-| Category | Technologies |
-|-----------|---------------|
-| 🖥️ **Frontend** | HTML • CSS • Bootstrap • React • JavaScript |
-| 🔧 **Backend** | .NET (C#) • Laravel • Node.js • Express |
-| 🗄️ **Databases** | MySQL • MongoDB |
-| 📱 **Mobile** | Flutter • Dart • .NET MAUI |
-| 🧠 **Specialties** | SEO • UI/UX • API Design • Teaching • AI Basics |
-
----
-
-## 📊 GitHub Insights
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imhibrahim&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imhibrahim&theme=react&hide_border=true&background=0D1117" height="165" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhibrahim&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2F81F7" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,php,laravel,dotnet,csharp,mysql,mongodb,firebase,flutter,dart,git,github,vscode" />
+
 </p>
 
 ---
 
-## 🌐 Let’s Connect
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ibrahim-276262232/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@Future_Programming"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://chichomez.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:imh774077@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=imhibrahim&show_icons=true&theme=tokyonight" height="180em" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imhibrahim&theme=tokyonight" height="180em" />
+
 </p>
 
 ---
 
-## 🧩 Fun Zone
+# 📈 Contribution Graph
 
-> 💬 *“Code is like art — the cleaner it is, the louder it speaks.”*  
-> ☕ Currently working on new **AI-driven learning apps**  
-> 🏗️ Building something exciting with **.NET + Flutter + MERN**  
-> 💡 Motto: *Keep learning, keep building, keep teaching.*
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imhibrahim&theme=tokyo-night" />
+</p>
 
 ---
 
-<h3 align="center">✨ “Building the future with clean code, creativity & consistency.” ✨</h3>
+# 🚀 Featured Projects
+
+### 🎬 Movie Ticket Booking System
+- Laravel Based Ticket Booking System
+- PDF Ticket Download
+- Booking History & Status
+
+### 📚 Tuition Management System
+- Student & Teacher Management
+- Attendance & Fee Tracking
+
+### 🤖 AI Learning Projects
+- ChatGPT Learning Projects
+- AI Teaching Content for Kids
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github.com/imhibrahim/imhibrahim/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=imhibrahim&theme=tokyonight&row=1&column=6" />
 </p>
+
+---
+# 💀 Snake Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+
+# ✨ Visitor Count
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=imhibrahim&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
